@@ -1,3 +1,5 @@
+![Build Status](https://cloud.drone.io/api/badges/JarlPenguin/releases/status.svg)
+
 # ROM BUILDER
 #
 This repo is exclusively for [drone ci](https://cloud.drone.io/) to build ROM without hassle.

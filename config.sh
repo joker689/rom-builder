@@ -1,18 +1,18 @@
 #!/bin/bash
 
-GITHUB_USER=Akianonymus
-GITHUB_EMAIL=anonymus.aki@gmail.com
+GITHUB_USER=JarlPenguin
+GITHUB_EMAIL=jarlpenguin@gmail.com
 
-KBUILD_BUILD_USER="Aki"
-KBUILD_BUILD_HOST="A_DEAD_PLANET"
+KBUILD_BUILD_USER="JarlPenguin"
+KBUILD_BUILD_HOST="builder"
 
-device=harpia
+device=montana
 
-ROM="PixelExperience"
-manifest_url="https://github.com/PixelExperience/manifest"
-rom_vendor_name="aosp" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
-branch="pie"
+ROM="CarbonROM"
+manifest_url="https://github.com/CarbonROM/android"
+rom_vendor_name="carbon" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
+branch="cr-7.0"
 
-release_repo="Akianonymus/harpia_builds"
+release_repo="JarlPenguin/releases"
 
-timezone="Asia/Kolkata"
+timezone="Seoul"

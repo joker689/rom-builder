@@ -5,7 +5,7 @@
 # you may not use this file except in compliance with the License.
 #
 
-echo "***BuildBot***"
+echo "***Build Bot***"
 echo $TELEGRAM_TOKEN >/tmp/tg_token
 echo $TELEGRAM_CHAT >/tmp/tg_chat
 echo $GITHUB_TOKEN > /tmp/gh_token

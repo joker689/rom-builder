@@ -1,5 +1,5 @@
 kind: pipeline
-name: Built Bot
+name: Build Bot
 
 steps:
 - name: ROM
