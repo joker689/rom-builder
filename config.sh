@@ -8,10 +8,10 @@ KBUILD_BUILD_HOST="Unique"
 
 device=land
 
-ROM="Evolution-X"
-manifest_url="https://github.com/Evolution-X/platform_manifest"
-rom_vendor_name="aosp" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
-branch="pie"
+ROM="CrDroid"
+manifest_url="https://github.com/crdroidandroid/android"
+rom_vendor_name="lineage" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
+branch="9.0"
 
 release_repo="LukmanShaikh/releases"
 
