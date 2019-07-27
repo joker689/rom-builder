@@ -11,7 +11,7 @@ export device=land
 
 ROM="CrDroid"
 manifest_url="https://github.com/crdroidandroid/android"
-export rom_vendor_name="lineage" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
+export rom_vendor_name="lineage" # This represent the nams used by different rom vendors, Ex - lineage_land-userdebug, lineage is vendor name.
 branch="9.0"
 
 release_repo="LukmanShaikh/releases"
