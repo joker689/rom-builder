@@ -6,8 +6,7 @@ GITHUB_EMAIL=shaikhlukman01@gmail.com
 KBUILD_BUILD_USER="Luqman"
 KBUILD_BUILD_HOST="Unique"
 
-export oem=xiaomi
-export device=land
+device=land
 
 ROM="CrDroid"
 manifest_url="https://github.com/crdroidandroid/android"
