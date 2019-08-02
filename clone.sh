@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # write commands if you want to clone some repos
+export SELINUX_IGNORE_NEVERALLOWS := true
 rm -rf device/xiaomi/msm8937-common && git clone -b ct-pie https://github.com/lukmanshaikh/omni_land device/xiaomi/msm8937-common
 git clone -b dt-pie https://github.com/lukmanshaikh/omni_land device/xiaomi/land
 git clone -b vt-pie https://github.com/lukmanshaikh/omni_land vendor/xiaomi
