@@ -1,7 +1,7 @@
 #!/bin/bash
 
-GITHUB_USER=LukmanShaikh
-GITHUB_EMAIL=shaikhlukman01@gmail.com
+GITHUB_USER=joker689
+GITHUB_EMAIL=uniqueluqman01@gmail.com
 
 KBUILD_BUILD_USER="Luqman"
 KBUILD_BUILD_HOST="Unique"
@@ -9,11 +9,11 @@ KBUILD_BUILD_HOST="Unique"
 export oem=xiaomi
 export device=land
 
-ROM="CrDroid"
-manifest_url="https://github.com/crdroidandroid/android"
-export rom_vendor_name="lineage" # This represent the nams used by different rom vendors, Ex - lineage_land-userdebug, lineage is vendor name.
+ROM="omnirom"
+manifest_url="https://github.com/omnirom/android"
+export rom_vendor_name="omni" # This represent the nams used by different rom vendors, Ex - lineage_land-userdebug, lineage is vendor name.
 branch="9.0"
 
-release_repo="LukmanShaikh/releases"
+release_repo="joker689/rom-builder"
 
 timezone="Seoul"
